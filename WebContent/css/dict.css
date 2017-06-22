@@ -1,0 +1,36 @@
+@CHARSET "UTF-8";
+
+body {
+	margin-top: 13px;
+	background: white;
+	margin-left: 0px;
+	margin-right: 0px;
+	font-family: "Open Sans", sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 1.8;
+}
+
+h1 {
+	background-color: lightgreen;
+	width: 100%;
+}
+
+p {
+	background-color: lightgray;
+	width: 100%;
+}
+
+.validators {
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	display: inline-flex;
+}
+#result{
+	margine-left:13px;
+	font-family:sans-serif;
+	font-size:10px;
+	background-color:lightgray;
+	
+}
